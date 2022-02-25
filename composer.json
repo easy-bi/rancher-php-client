@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.4",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "7.2.*"
     },
     "autoload": {
         "psr-4": { "Rancher\\" : "src/" }
